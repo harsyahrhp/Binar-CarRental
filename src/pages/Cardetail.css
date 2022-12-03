@@ -1,0 +1,20 @@
+.crdtl1 .card{
+    width: 600px;
+    text-align: center;
+}
+
+.crdtl1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 8rem;
+}
+
+.crdtl1 .card h1{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.crdtl1 .card p{
+    padding-bottom: 3rem;
+}

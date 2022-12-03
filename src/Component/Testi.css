@@ -1,0 +1,19 @@
+.texti4{
+    text-align: center;
+}
+
+.cardtesti{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.isicard{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.intro4{
+    padding-bottom: 5rem;
+}

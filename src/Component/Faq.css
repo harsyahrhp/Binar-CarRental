@@ -1,0 +1,17 @@
+
+
+.faq{
+    display: flex;
+    margin-top: 100px;
+    padding: 5rem;
+}
+
+.left3{
+    flex: 1;
+}
+
+.right3{
+    flex: 1;
+    display: grid;
+    gap: 1rem;
+}

@@ -1,0 +1,53 @@
+/* container{
+    
+} */
+
+.wrapper{
+    height: 10%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #F1F3FF;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.left{
+    flex: 1;
+    align-items: center;
+    display: flex;
+    padding-left: 5rem;
+}
+
+button{
+    color: aliceblue;
+    font-size: 18px;
+    background-color: blue;
+    border: none;
+    margin-left: 120px;
+    width: 100px;
+    height: 30px;
+}  
+
+.right{
+    display: flex;
+    flex: 10;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 10;
+    gap: 2rem;
+    margin-right: -18rem;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+
