@@ -1,13 +1,16 @@
 .crdtl1 .card{
     width: 600px;
-    text-align: center;
+    text-align: left;
+    padding: 12px;
 }
 
 .crdtl1{
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-top: 8rem;
+    padding-top: 5rem;
+    padding-left: 2rem;
+    padding-bottom: 5rem;
 }
 
 .crdtl1 .card h1{
@@ -17,4 +20,32 @@
 
 .crdtl1 .card p{
     padding-bottom: 3rem;
+}
+
+.crd2{
+    width: 300px;
+}
+
+.crd2 img{
+    width: 300px;
+}
+
+.crdtl2 .card{
+    width: 300px;
+}
+
+.crdtl2{
+    padding-left: 2rem;
+}
+
+.crdtl2 .card p{
+    text-decoration: bold;
+}
+
+.prc{
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+    padding-left: 1rem;
+    font-weight: bold;
 }

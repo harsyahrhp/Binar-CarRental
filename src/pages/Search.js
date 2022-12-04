@@ -9,7 +9,7 @@ const Search = () =>{
     return(
         <div>
             <Navbar/>
-            <Searchbar/>
+            {/* <Searchbar /> */}
             <Car/>
             <Footer/>
            

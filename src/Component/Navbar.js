@@ -8,16 +8,16 @@ const Navbar = () =>{
         <div className="wrapper">
             <div className="left">
                 <div className="button">
-                 <Button></Button>
+                <a href="/" type="button" class="btn btn-primary"></a>
                  </div>
             </div>
 
         <div className="right"> 
             <div className="menu">
-            <a className="nav-link" href="OurService">Our Service</a> 
-            <a className="nav-link" href="MyList">My List</a>
-            <a className="nav-link" href="Testimonial">Testimonial</a>
-            <a className="nav-link" href="Faq">Faq</a>
+            <a className="nav-link" href="/">Our Service</a> 
+            <a className="nav-link" href="/">My List</a>
+            <a className="nav-link" href="/">Testimonial</a>
+            <a className="nav-link" href="/">Faq</a>
             </div>
         </div>
 

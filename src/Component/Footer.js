@@ -33,7 +33,7 @@ const Footer = () => {
     <div class="col">
       <div className="copy">
         <h1>Copyright Binar 2022</h1>
-        <Button></Button>
+        <a href="/" type="button" class="btn btn-primary"></a>
       </div>
     </div>
   </div>

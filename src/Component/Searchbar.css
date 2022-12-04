@@ -1,0 +1,38 @@
+.sea{
+    background-color:  #F1F3FF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sea .card{
+    width: 80rem;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.nmmbl{
+    display: grid;
+}
+
+.kat{
+    display: grid;
+}
+
+.harga{
+    display: grid;
+}
+
+.status{
+    display: grid;
+}
+
+.sea .card .row{
+    padding: 3rem;
+}
+
