@@ -81,7 +81,7 @@ const Car = () => {
                     <label>Category</label>
                     <Form.Select value={fcategory} onChange={handleChangeCategory}>                    
                     <option value={''}>Category</option>
-                     <option value={'Small'}>Small</option>
+                     <option value={'small'}>Small</option>
                      <option value={'Medium'}>Medium</option>
                      <option value={'large'}>Large</option>
                     </Form.Select>
